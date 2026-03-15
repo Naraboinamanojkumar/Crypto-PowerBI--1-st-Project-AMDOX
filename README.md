@@ -47,7 +47,7 @@ screenshots/
 
 ## Dashboard Preview
 
-Screenshots of the Power BI dashboard are included in the screenshots folder.
+Screenshots of the Power BI dashboard are included in the screenshots folder in .png format.
 
 ## Author
 
